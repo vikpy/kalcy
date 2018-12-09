@@ -1,0 +1,31 @@
+{
+  "name": "kalcy",
+  "version": "1.0.0",
+  "description": "Chat bot using dialogflow and nodejs to do simple calculations. This bot will be accessible on facebook messenger for further analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "<>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikpy/kalcy.git"
+  },
+  "keywords": [
+    "chatbot",
+    "calculator",
+    "bot"
+  ],
+  "author": "Vikraant Pai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikpy/kalcy/issues"
+  },
+  "homepage": "https://github.com/vikpy/kalcy#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.7",
+    "request": "^2.88.0"
+  }
+}
